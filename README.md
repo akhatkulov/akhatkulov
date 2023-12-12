@@ -1,9 +1,10 @@
+<pre> <b>
 Assalomu alaykum 
 
 Mening ismi Mexroj va men #dasturchi #DevOPS_Ijeneri #kriptograf.
 
 Bilimlar: HTML/CSS, Bootstrap, JS, Python, C++,SQLite, Postgres SQL
-<pre> <b>
+
 ┎  🐍Python
 ╏
 ╔  Linux Applications
@@ -26,8 +27,9 @@ Bilimlar: HTML/CSS, Bootstrap, JS, Python, C++,SQLite, Postgres SQL
 ╚  Cipher Decrypt
 </b></pre>
 
-📜Resume: LINK (https://thewind.uz/)
-🗂Portfolio: LINK (https://github.com/akhatkulov)
+📜Resume: <a href="https://thewind.uz/">LINK</a>
+🗂Portfolio: <a href="https://github.com/akhatkulov/">LINK </a>
 
-📸Instagram: LINK (https://www.instagram.com/42_akhatkulov/)
-💬Contact: @Akhatkulov
+📸Instagram: <a href="https://instagram.com/42_Akhatkulov">LINK</a>
+💬Contact: <a href="https://t.me/Akhatkulov">Akhatkulov</a>
+</b></pre>
