@@ -3,7 +3,7 @@ Assalomu alaykum
 Mening ismi Mexroj va men #dasturchi #DevOPS_Ijeneri #kriptograf.
 
 Bilimlar: HTML/CSS, Bootstrap, JS, Python, C++,SQLite, Postgres SQL
-
+<pre> <b>
 ┎  🐍Python
 ╏
 ╔  Linux Applications
@@ -24,6 +24,7 @@ Bilimlar: HTML/CSS, Bootstrap, JS, Python, C++,SQLite, Postgres SQL
 ╏
 ╔  Cipher Encrypt
 ╚  Cipher Decrypt
+</b></pre>
 
 📜Resume: LINK (https://thewind.uz/)
 🗂Portfolio: LINK (https://github.com/akhatkulov)
