@@ -1,7 +1,7 @@
 <pre> <b>
 Assalomu alaykum 
 
-Mening ismim Mexroj va men #dasturchi #DevOPS_Ijeneri #kriptograf.
+Mening ismim Mexroj
 
 Bilimlar: HTML/CSS, Bootstrap, JS, Python, C++,SQLite, Postgres SQL
 
