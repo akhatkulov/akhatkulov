@@ -8,7 +8,7 @@ Bilimlar: HTML/CSS, Bootstrap, JS, Python, C++,SQLite, Postgres SQL
 ┎  🐍Python
 ╏
 ╔  Linux Applications
-╠  Windos Applications
+╠  Windows Applications
 ╠  Web Application 
 ╠  Telegram Bot Application
 ╠  CLI Application
