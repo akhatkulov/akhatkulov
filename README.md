@@ -19,7 +19,7 @@ Bilimlar: HTML/CSS, Bootstrap, JS, Python, C++,SQLite, Postgres SQL
 ╔  Linux OS
 ╠  Docker
 ╠  Git/Github
-╚  Kubernutes
+╚  Kubernetes
 
 ┎  ✍️Cryptography
 ╏
