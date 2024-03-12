@@ -21,11 +21,6 @@ Bilimlar: HTML/CSS, Bootstrap, JS, Python, C++,SQLite, Postgres SQL
 ╠  Git/Github
 ╚  Kubernetes
 
-┎  ✍️Cryptography
-╏
-╔  Cipher Encrypt
-╚  Cipher Decrypt
-
 📜Resume: <a href="https://thewind.uz/">LINK</a>
 🗂Portfolio: <a href="https://github.com/akhatkulov/">LINK </a>
 
