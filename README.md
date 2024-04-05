@@ -3,7 +3,7 @@ Assalomu alaykum
 
 Mening ismim Mexroj
 
-Bilimlar: HTML/CSS, Bootstrap, JS, Python, C++,SQLite, Postgres SQL
+Bilimlar: Linux,Python,HTML/CSS,Bootstrap,JS,Git/Github,Aiogram2,Telebot,Flask,Django,PyQt5,PHP,DevOps
 
 ┎  🐍Python
 ╏
