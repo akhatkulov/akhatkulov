@@ -7,3 +7,7 @@
                                                           | |           
                                                           |_|           
 </pre>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akhatkulov&show_icons=true&theme=gotham" alt="akhatkulov" />
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=akhatkulov&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="akhatkulov" /></p>
