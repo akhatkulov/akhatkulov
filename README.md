@@ -1,6 +1,7 @@
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/akhatkulov/count.svg" />
+  <img src="https://profile-counter.glitch.me/akhatkulov/count.svg" /> <br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/akhatkulov.png" alt="Your Image Badge" />
 </p>
 <hr>
 <pre> __          __  _               _     _                           ___  
@@ -26,6 +27,7 @@
 <img  style="width:400px; height:190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhatkulov&hide=c%23,css,html%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
 </div>
 <hr>
+
 <h4 align="center">
   <a href="https://github.com/akhatkulov?tab=repositories" title="Show Repositories">🔎 Other repositories 🔍</a>
 </h4>
