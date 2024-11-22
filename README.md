@@ -1,5 +1,6 @@
 <p align="center"> 
-  Visitors count<br>
+ <b> Visitors count</b> <br>
+  <img src="https://profile-counter.glitch.me/akhatkulov/count.svg" /> <br>
   <img src="https://tryhackme-badges.s3.amazonaws.com/akhatkulov.png" alt="Your Image Badge" />
 </p>
 
