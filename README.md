@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Mekhroj Akhatkulov</h1>
 <h3 align="center">AppSec/DevSecOps engineer from Uzbekistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhatkulov" alt="akhatkulov" /></a> </p>
-
 - 🔭 I’m currently working on [HackNow Platform](https://platform.hacknow.uz)
 
 - 🌱 I’m currently learning **Android Security Internals**
